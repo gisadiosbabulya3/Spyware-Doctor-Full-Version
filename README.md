@@ -241,4 +241,4 @@ This repository serves as the official landing page for Spyware Doctor. The soft
 **Get the most recent version of Spyware Doctor today!**
 
 ---
-**Last updated:** 2026-09-17 23:16:43 UTC
+**Last updated:** 2026-09-18 02:18:28 UTC
